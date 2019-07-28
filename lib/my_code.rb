@@ -65,10 +65,8 @@ end
       #source_array = [ false, nil, nil, nil, true]
       #expect(reduce_to_any_true(source_array)).to eq(true)
     
-def reduce_to_any_true
-  
-  
-end
+#def reduce_to_any_true
+  #end
 
 
  # describe "reduce_to_any_true returns false when no truthy value is present" do
